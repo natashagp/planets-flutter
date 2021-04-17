@@ -1,16 +1,15 @@
-# planets
+# Planets App - Flutter
 
-A new Flutter project.
+This is a simple Planets App build with Flutter 2.0.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="/demo/print1.png" width="200" height="400"/> <img src="/demo/print2.png" width="200" height="400"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="/demo/demo.gif" width="200" height="400"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Inspiration
+
+[Youtube](https://www.youtube.com/watch?v=neXfa4J752A&list=PL2h81vEfhon9yDXw5YeHz3ETtD_Q3a2wt&index=4)
